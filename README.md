@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi and greetings, I'm Akio 👋
 
-<!--
-**AkioTrya/AkioTrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gap year | SMK Networking background | Building toward software development
 
-Here are some ideas to get you started:
+## What I'm building
+- Network monitoring tools in C++
+- Exploring full-stack web development
+- Documenting the journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **Languages**: C++, Python, HTML/CSS/JavaScript
+- **Database**: SQL (MySQL, SQLite)
+- **Tools**: Git, Git Bash, VS Code
+
+## Background
+- SMK Computer Networking graduate
+- Intern experience at Pertamina Data Hub
+- English tutor
+
+*"Vast ambitions, one commit at a time."*
