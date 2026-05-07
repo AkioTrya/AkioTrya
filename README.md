@@ -17,4 +17,4 @@ Gap year | SMK Networking background | Building toward software development
 - Intern experience at Pertamina Data Hub
 - English tutor
 
-*"Vast ambitions, one commit at a time."*
+*"Vast ambitions, one commit at a time, Future F1 data engineer"*
